@@ -30,7 +30,7 @@
 
 
 <br>
-<br>
+
 
 
 <div>
@@ -52,6 +52,13 @@
 
 <br>
 
+<h2>Linux shell 👨‍💻</h2>
+
+
+![Metrics](https://metrics.lecoq.io/NEWBIENOOB-0?template=terminal&projects=1&habits=1&sponsorships=1&sponsors=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=graph&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&sponsors.title=Sponsor%20Me!&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FCalcutta&config.octicon=true)
+
+
+                                  
 <h2> My GitHub Stats :bar_chart:</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NEWBIENOOB-0&theme=onedark" alt="techshreyash" /></a> </p>
 <br>
