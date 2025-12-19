@@ -53,7 +53,7 @@
 <h2>Linux shell 👨‍💻</h2>
 
 
-![Metrics](https://metrics.lecoq.io/NEWBIENOOB-0?template=terminal&projects=1&habits=1&sponsorships=1&sponsors=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=graph&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&sponsors.title=Sponsor%20Me!&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FCalcutta&config.octicon=true)
+![Metrics](https://metrics.lecoq.io/NOOBGLITCH?template=terminal&projects=1&habits=1&sponsorships=1&sponsors=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=graph&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&sponsors.title=Sponsor%20Me!&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FCalcutta&config.octicon=true)
 
 
                                   
