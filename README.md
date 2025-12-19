@@ -58,7 +58,7 @@
 
                                   
 <h2> My GitHub Stats :bar_chart:</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NOOBGLITCH&theme=onedark" alt="techshreyash" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=NOOBGLITCH&theme=onedark" alt="techshreyash" /></a> </p>
 <br>
 </div>
 <div>
