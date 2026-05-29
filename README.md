@@ -69,22 +69,22 @@
 <div align="center">
 <!-- GitHub -->
 <a href="https://github.com/NEWBIENOOB-0" target="_blank">
-  <img src="https://svgwithtext.vercel.app/?social=github&text=@NOOBGLITCH&h=40" alt="GitHub" height="40">
+  <img src="https://svgwithtext.vercel.app/?social=github&text=NOOBGLITCH&h=40" alt="GitHub" height="40">
 </a>&nbsp;
 
 <!-- Twitter / X -->
 <a href="https://twitter.com/NEWBIENOOBO" target="_blank">
-  <img src="https://svgwithtext.vercel.app/?social=twitter&text=@NEWBIENOOBO&h=40" alt="Twitter" height="40">
+  <img src="https://svgwithtext.vercel.app/?social=twitter&text=NEWBIENOOBO&h=40" alt="Twitter" height="40">
 </a>&nbsp;
 
 <!-- Telegram -->
 <a href="https://telegram.dog/newbienoobbot" target="_blank">
-  <img src="https://svgwithtext.vercel.app/?social=telegram&text=@NOOBGLITCH&h=40" alt="Telegram" height="40">
+  <img src="https://svgwithtext.vercel.app/?social=telegram&text=NOOBGLITCH&h=40" alt="Telegram" height="40">
 </a>&nbsp;
 
 <!-- Instagram -->
 <a href="https://instagram.com/NEWBIENOOBO" target="_blank">
-  <img src="https://svgwithtext.vercel.app/?social=instagram&text=@NEWBIENOOBO&h=40" alt="Instagram" height="40">
+  <img src="https://svgwithtext.vercel.app/?social=instagram&text=NEWBIENOOBO&h=40" alt="Instagram" height="40">
 </a>&nbsp;
 </a>  <br><img src = "images/contactme.gif" height = "230"/>
 </div>  
